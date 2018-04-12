@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dagger commits</string>
+    <string name="des_no_data">No data is available</string>
+    <string name="menu_configure_locale">Change language</string>
+    <string name="menu_search">Search</string>
+    <string name="search">Search</string>
+    <string name="invalid_search_text">Please input a valid word to search</string>
+    <string name="toolbar_title_commit_list">Dagger Commits</string>
+    <string name="empty_commits">No commits</string>
+</resources>

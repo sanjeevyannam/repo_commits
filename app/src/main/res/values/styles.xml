@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="summary_label_font_bold">
+        <item name="android:textColor">@color/summary_text_color</item>
+        <item name="android:fontFamily">sans-serif-condensed-light</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="summary_label_font">
+        <item name="android:textColor">@color/summary_text_color</item>
+        <item name="android:fontFamily">sans-serif-condensed-light</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="LauncherNumberStyle" parent="android:Widget.EditText">
+        <item name="android:textSize">@dimen/font_size_medium</item>
+        <item name="android:fontFamily">sans-serif-condensed-light</item>
+        <item name="android:textColor">@color/launcher_number_color</item>
+    </style>
+
+    <style name="LauncherTextStyle" parent="android:Widget.EditText">
+        <item name="android:textSize">@dimen/font_size_xsmall</item>
+        <item name="android:fontFamily">sans-serif-condensed-light</item>
+        <item name="android:textColor">@color/launcher_text_color</item>
+    </style>
+
+</resources>

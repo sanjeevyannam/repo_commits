@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white_text_a80">#CCFFFFFF</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="summary_text_color">#ff003a42</color>
+    <color name="list_selector_color">#d9eced</color>
+
+    <color name="blue_default_color">#00AEC7</color>
+    <color name="launcher_divider_color">#ededed</color>
+    <color name="launcher_number_color">#434343</color>
+    <color name="launcher_text_color">#828282</color>
+
+    <color name="background_color">#00AEC7</color>
+    <color name="border_color">#4fa5d5</color>
+    <color name="dark_transparent_a80">#CC505050</color>
+
+    <color name="composer_light_gray">#ffccd6dd</color>
+</resources>
